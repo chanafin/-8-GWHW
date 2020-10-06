@@ -1,5 +1,5 @@
 
--- Subquery 1
+-- Subquery 1 -
 select * 
 from actor
 where actor_id in
